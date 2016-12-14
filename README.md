@@ -1,0 +1,2 @@
+# JavaScriptBase
+JavaScript base info
